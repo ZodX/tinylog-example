@@ -1,3 +1,3 @@
-#Tinylog
+# Tinylog
 
 Homework for university.
